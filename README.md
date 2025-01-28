@@ -1,4 +1,6 @@
 # Hi there 👋 [![](https://visitcount.itsvg.in/api?id=3quraishi&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://[your-image-link-here](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx4bGVibTQ5ZzllM2o2Nm5hZTFmYnVoNjhiMzBkdG9hYXVmY211aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skMw9r8WsPZZ0MWyJP/giphy.gif).gif" alt="Waving hand" width="30px" />
+
 
 <!--
 **3quraishi/3quraishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
