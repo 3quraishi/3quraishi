@@ -1,4 +1,4 @@
-## Hi there 👋 [![](https://visitcount.itsvg.in/api?id=3quraishi&icon=0&color=0)](https://visitcount.itsvg.in)
+# Hi there 👋 [![](https://visitcount.itsvg.in/api?id=3quraishi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
 **3quraishi/3quraishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 
 -->
-## About Me:
-🔭 Experience: I currently work for Beam Data as a Data Analyst Consultant.<br> 🌱 Learning focus: Cloud computing and refining my coding skills.<be>
-🎯 Goals: To create an end-to-end data pipeline project integrating a cloud platform and develop a game using Python. Read six books 📚 on personal development this year. <be>
+# About Me:
+🔭 Experience: I currently work for Beam Data as a Data Analyst Consultant.<br> 🌱 Learning focus: Cloud computing and refining my coding skills.<br>
+🎯 Goals: To create an end-to-end data pipeline project integrating a cloud platform and develop a game using Python. Read six books 📚 on personal development this year. <br>
 ⚡ Fun fact: I speak six languages and explored🌍 15+ cities across the globe.<br><br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nawaz-quraishi) 
 
 # 💻 Tech Stack:
