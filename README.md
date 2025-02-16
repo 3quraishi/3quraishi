@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 # About Me:
 🔭 Experience: I currently work for Beam Data as a Data Analyst Consultant.<br> 🌱 Learning focus: Cloud computing and refining my coding skills.<br>
 🎯 Goals: To create an end-to-end data pipeline project integrating a cloud platform and develop a game using Python. Read six books on personal development this year. <br>
-⚡ Fun fact: I speak six languages and explored 🌍 15+ cities across the globe.<br><br>
+⚡ Fun fact: I speak six languages and explored 🌍 15+ cities across the globe.<br>
 
 
 # 💻 Tech Stack:
