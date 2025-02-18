@@ -19,10 +19,14 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawaz-quraishi) <br><br> 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3quraishi&label=Profile%20views&color=0e75b6&style=flat" alt="3quraishi" /> </p>
+
+<p align="left">
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
