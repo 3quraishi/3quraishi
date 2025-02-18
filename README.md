@@ -6,6 +6,11 @@
 Here are some ideas to get you started:
 
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3quraishi&label=Profile%20views&color=0e75b6&style=flat" alt="3quraishi" /> </p>
+
+<p align="center">
+</p>
+
 # About Me:
 🔭 Experience: I currently work for Beam Data as a Data Analyst Consultant.<br> 🌱 Learning focus: Cloud computing and refining my coding skills.<br>
 🎯 Goals: To create an end-to-end data pipeline project integrating a cloud platform and develop a game using Python. Read six books on personal development this year. <br>
@@ -23,10 +28,6 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3quraishi&label=Profile%20views&color=0e75b6&style=flat" alt="3quraishi" /> </p>
-
-<p align="left">
-</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
