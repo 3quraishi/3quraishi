@@ -7,10 +7,7 @@ I'm Nawaz, a bald guy gone bold on data! I love simplifying things and perhaps t
 Here are some ideas to get you started:
 
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3quraishi&label=Profile%20views&color=0e75b6&style=flat" alt="3quraishi" /> </p>
 
-<p align="center">
-</p>
 
 # About Me:
 🔭 Experience: I currently work for Beam Data as a Data Analyst Consultant.<br> 🌱 Learning focus: Cloud computing and refining my coding skills.<br>
@@ -29,6 +26,9 @@ Here are some ideas to get you started:
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3quraishi&label=Profile%20views&color=0e75b6&style=flat" alt="3quraishi" /> </p>
 
+<p align="center">
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
