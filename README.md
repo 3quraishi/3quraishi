@@ -1,6 +1,6 @@
 # Hello There! 👋 [![](https://visitcount.itsvg.in/api?id=3quraishi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I'm Nawaz, a bald guy gone bold on data! I love simplifying things and perhaps that's why I'm passionate about programming maybe? I leverage my programming skills to dig deep into data and find solutions for business problems. 
+I'm Nawaz, a bald guy gone bold on data! I love simplifying things and perhaps that's why I'm passionate about programming maybe? I leverage my programming skills to dive deep into data and find solutions for business problems. 
 <!--
 **3quraishi/3quraishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
