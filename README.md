@@ -1,6 +1,6 @@
 # Hello There! 👋 [![](https://visitcount.itsvg.in/api?id=3quraishi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Hi! I'm Nawaz, a bald guy who's gone totally bold on data! I transform complex business challenges into actionable solutions through code and structured problem-solving. Whether it's streamlining processes or uncovering insights from data, I believe in keeping things elegantly simple. 
+Hi! I'm Nawaz. I got bitten by the data bug and have never looked back! I transform complex business challenges into actionable solutions through code and structured problem-solving. Whether it's streamlining processes or uncovering insights from data, I believe in keeping things elegantly simple. 
 <!--
 **3quraishi/3quraishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
