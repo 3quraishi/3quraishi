@@ -1,5 +1,5 @@
-!(https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
+![Description](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
 # Hello There! 👋 [![](https://visitcount.itsvg.in/api?id=3quraishi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 Hi! I'm Nawaz - a bald guy gone bold on data! I am passionate about solving business challenges into actionable solutions through code and structured problem-solving. Whether it's streamlining processes or uncovering insights from data, I believe in keeping things elegantly simple. 
