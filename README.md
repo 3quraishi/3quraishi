@@ -31,6 +31,4 @@ Here are some ideas to get you started:
 <p align="center">
 </p>
 
-NYC Transit and Limousine: 
-https://github.com/3quraishi/NYC-Transit-and-Limousine-Comission-Project-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
